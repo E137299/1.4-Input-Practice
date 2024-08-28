@@ -1,4 +1,4 @@
-# 1.4-Input-Practice
+# 1.5-Input-Practice
 
 Notes: [input()](https://colab.research.google.com/drive/1JSrOECf5FeozLVAlGu7IDqGoR6bf3mR1?usp=drive_link)
 
